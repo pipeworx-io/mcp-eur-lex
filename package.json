@@ -1,0 +1,20 @@
+{
+  "name": "@pipeworx/mcp-eur-lex",
+  "version": "0.1.0",
+  "description": "Official EU law, article-level: search EU legislation and quote GDPR, NIS2, DORA, the EU AI Act, DSA/DMA, eIDAS, the Cyber Resilience Act and the rest of the EU digital/compliance corpus with verifiable EUR-Lex citations. Keyless, via the EU Publications Office (CELLAR + SPARQL).",
+  "type": "module",
+  "main": "src/index.ts",
+  "types": "src/index.ts",
+  "keywords": ["mcp", "mcp-server", "model-context-protocol", "pipeworx", "eur-lex"],
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/pipeworx-io/mcp-eur-lex"
+  },
+  "scripts": {
+    "typecheck": "tsc --noEmit"
+  },
+  "devDependencies": {
+    "typescript": "^5.7.0"
+  }
+}
