@@ -1,6 +1,6 @@
 {
   "name": "@pipeworx/mcp-eur-lex",
-  "version": "0.2.0",
+  "version": "0.2.1",
   "description": "EUR-Lex MCP — official EU law, article-level.",
   "type": "module",
   "main": "lib/index.js",
@@ -27,7 +27,7 @@
     "mode": "gateway",
     "slug": "eur-lex",
     "gatewaySlug": "eur-lex",
-    "sourceHash": "v1-249126ac8f8b8a6d9d4bb6e20de412b2a5896cd5609ee9bf935f3dc9eb92b55c",
-    "sourceCommit": "bb047243cf27f32453103de186b8e6a8b6a1ce79"
+    "sourceHash": "v1-8bbf509e961ca77728192ca9f489d922f07b9b40b0d1b175c683c93729d31b96",
+    "sourceCommit": "d35e32c1ffe988e24d391dedb35666387fd2b3d6"
   }
 }
